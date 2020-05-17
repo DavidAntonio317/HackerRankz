@@ -17,7 +17,7 @@ Return the number of candles that can be blown out on a new line.
 
   `4`
   
-  `4 4 1 3`
+  `3 2 1 3`
 * **Sample Output:**
 
   `2`
