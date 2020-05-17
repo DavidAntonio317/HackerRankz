@@ -1,2 +1,3 @@
 # HackerRankz
-Hackerrank probs
+
+Algorithm and Data Structure Problems
